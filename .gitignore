@@ -1,0 +1,6 @@
+*
+!.gitignore
+!pov/
+!pov/POV.cs
+!pov/pov.csproj
+!financial_market_POV.sln
